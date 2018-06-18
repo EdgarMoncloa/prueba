@@ -1,0 +1,37 @@
+*   [33mc510cb5[m[33m ([m[1;36mHEAD -> [m[1;32mLogica[m[33m)[m Merge branch 'Interface' into Logica
+[31m|[m[32m\[m  
+[31m|[m *   [33m2ce88bf[m[33m ([m[1;32mInterface[m[33m)[m Merge branch 'InterfaceVentana2' into Interface
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m64fee8a[m[33m ([m[1;32mInterfaceVentana2[m[33m)[m Se agregaron imagenes'
+[31m|[m [33m|[m * [33me42ede3[m Se creo la segunda ventana
+[31m|[m * [34m|[m [33ma17d04f[m Se completo la segunda interface
+[31m|[m * [34m|[m [33m109ff15[m[33m ([m[1;32mHotfix2[m[33m)[m Se corrigio otro error
+[31m|[m * [34m|[m [33m3e47067[m Se corrigio un error
+[31m|[m [34m|[m[34m/[m  
+[31m|[m * [33mc2973d9[m Se agregaron cosas al index
+[31m|[m * [33ma75115e[m[33m ([m[1;32mmaster[m[33m)[m Segundo commit master
+[31m|[m *   [33m98adf14[m Merge branch 'Interface'
+[31m|[m [35m|[m[36m\[m  
+[31m|[m [35m|[m * [33m1f99261[m[33m ([m[1;32mhotfixIndex[m[33m)[m Se arreglo el index.html
+[31m|[m [35m|[m * [33mef34c8e[m Se agrega el indice a Interface
+[31m|[m [35m|[m * [33md8e33e9[m Primer commit interface
+* [35m|[m [36m|[m   [33mf53c3d2[m Merge branch 'arreglandologica' into Logica
+[1;31m|[m[1;32m\[m [35m\[m [36m\[m  
+[1;31m|[m * [35m|[m [36m|[m [33m6e3c223[m[33m ([m[1;32marreglandologica[m[33m)[m Se arreglox2
+[1;31m|[m * [35m|[m [36m|[m [33m484c4a7[m se arreglo esto
+* [1;32m|[m [35m|[m [36m|[m [33mc83042e[m Aleatorios
+[1;32m|[m[1;32m/[m [35m/[m [36m/[m  
+* [35m|[m [36m|[m [33me7de2f8[m[33m ([m[1;32mMejorandoLogica[m[33m)[m esto se mejoro x2
+* [35m|[m [36m|[m [33m1380627[m se mejoro esto
+* [35m|[m [36m|[m [33m7fdcbde[m Se mejoro la logica
+* [35m|[m [36m|[m   [33m6020b44[m Merge branch 'Logica' into MejorandoLogica
+[1;33m|[m[1;34m\[m [35m\[m [36m\[m  
+[1;33m|[m * [35m|[m [36m|[m [33m7eb111c[m se agrego logicahtml
+[1;33m|[m [35m|[m[35m/[m [36m/[m  
+* [35m|[m [36m|[m [33m1990e92[m[33m ([m[1;32mLogica3[m[33m)[m Integrada logica 3
+[35m|[m[35m/[m [36m/[m  
+* [36m|[m [33m09eb9ec[m Se agrega logica 2
+* [36m|[m [33m0eec771[m Se agrega logica 1
+[36m|[m[36m/[m  
+* [33m5a79301[m Primer cambio en master
+* [33mdacefc5[m Este es el inicio del proyecto
