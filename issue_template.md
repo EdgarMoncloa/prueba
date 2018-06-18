@@ -1,5 +1,5 @@
 ## Como se puede replicar el problema
 
-## En que vercion del software ocurre
+## En que version del software ocurre
 
 ##
